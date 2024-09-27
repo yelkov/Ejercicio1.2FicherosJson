@@ -14,6 +14,7 @@ public class Game implements Serializable {
     private List<String> imagenes = new ArrayList<String>();
     private Map<String,String> comentarios = new HashMap<String,String>();
 
+    public Game(){}
     public Game(String nombre){
         this.nombre = nombre;
     }

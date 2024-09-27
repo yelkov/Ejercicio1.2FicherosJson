@@ -14,6 +14,7 @@ public class LeerJsonGame {
             }
 
         }catch (IOException e){
+            e.printStackTrace();
             System.out.println("Error al leer el archivo");
         }
 
