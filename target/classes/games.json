@@ -1,0 +1,61 @@
+{
+  "games" : [
+    { "nombre" : "The Witcher 3: Wild Hunt",
+      "version" : "1.0",
+      "descripcion" : "The Witcher 3 es un juego de rol de mundo abierto ambientado en un impresionante mundo de fantasía. Controlas a Geralt de Rivia, un cazador de monstruos conocido como un brujo, mientras navegas por un vasto continente lleno de misterio y peligro.",
+      "idiomas disponibles" : [
+        "Inglés","Español"
+      ],
+      "imagenes" : [
+        "https://example.com/witcher3_screenshot1.jpg", "https://example.com/witcher3_screenshot2.jpg"
+
+      ],
+      "comentarios" : [
+        {
+          "usuario" : "gam3r4life",
+          "contenido" : "¡Un juego épico con una historia increíble y gráficos asombrosos!"
+        },
+        {
+          "usuario" : "monsterhunter89",
+          "contenido" : "Me encanta la profundidad de este juego. Siempre hay algo nuevo por descubrir."
+        }
+      ]
+    },{
+      "nombre": "Red Dead Redemption 2",
+      "version": "1.0",
+      "descripcion": "Red Dead Redemption 2 es un épico juego de acción y aventuras ambientado en el salvaje oeste americano. Sigues la historia de Arthur Morgan, un forajido en una banda de forajidos, mientras luchan por sobrevivir en una era de cambios y modernización.",
+      "idiomas disponibles": [
+        "Inglés",
+        "Español",
+        "Francés"
+      ],
+      "imagenes": [
+        "https://example.com/rdr2_screenshot1.jpg",
+        "https://example.com/rdr2_screenshot2.jpg"
+      ],
+      "comentarios": [
+        {
+          "usuario": "cowboyup45",
+          "contenido": "¡El mundo abierto más impresionante que he jugado! Me siento como un auténtico vaquero."
+        },
+        {
+          "usuario": "outlawbelle",
+          "contenido": "La historia y los personajes son tan profundos. Me atrapó desde el primer momento."
+        }
+      ]
+    }
+
+  ],
+  "usuarios" : [
+    {
+      "id" : "001",
+      "avatar" : "https://example.com/avatars/cowboyup45.png",
+      "nombre" : "cowboyup45"
+    },
+    {
+      "id" : "002",
+      "avatar" : "https://example.com/avatars/gam3r4life.png",
+      "nombre" : "gam3r4life"
+    }
+  ]
+}
