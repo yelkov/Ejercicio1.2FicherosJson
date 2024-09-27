@@ -24,3 +24,5 @@ G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\86
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+U
+%src/main/java/XmlToJsonConverter.java,5\6\5669224aa6c2e30999d1bd9a4d7bfc55817c5638
