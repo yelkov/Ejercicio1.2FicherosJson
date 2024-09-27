@@ -1,0 +1,24 @@
+[
+  {
+    "nombre": "lista1",
+    "canciones": [
+      {
+        "titulo": "Un nombre 1"
+      },
+      {
+        "titulo": "Un nombre 2"
+      }
+    ]
+  },
+  {
+    "nombre": "lista2",
+    "canciones": [
+      {
+        "titulo": "Un nombre 4"
+      },
+      {
+        "titulo": "Un nombre 3"
+      }
+    ]
+  }
+]
