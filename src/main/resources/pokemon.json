@@ -1,0 +1,172 @@
+{"pokedex" :[
+  {
+    "id": "1",
+    "name" : "BULBASAUR",
+    "type": [
+      "Grass","Poison"
+    ],
+    "ability" : "Overgrow",
+    "exp" : 1059860,
+    "stats" : {
+      "HP" : 45,
+      "ATK" : 49,
+      "DEF" : 49,
+      "SPD" : 45,
+      "SAT" : 65,
+      "SDF": 65
+    },
+    "evolutions" : [
+      {
+        "name" : "Bulbasaur",
+        "id": 1
+      },
+      {
+        "name" : "Ivysaur",
+        "id": 2,
+        "lvl": 16
+      },
+      {
+        "name" : "Venusaur",
+        "id": 3,
+        "lvl": 32
+      }
+    ],
+    "ratio": {
+      "male": 87.5,
+      "female": 12.5
+    },
+    "egg-group": [
+      "Monster","Grass"
+    ],
+    "species" : "Seed Pokemon",
+    "height" : 0.7,
+    "weight" : 6.9,
+    "description" : "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "moves": [
+      {
+        "type": "level-up",
+        "name": "Tackle",
+        "lvl": 1
+      },
+      {
+        "type": "level-up",
+        "name": "Growl",
+        "lvl": 3
+      },
+      {
+        "type": "level-up",
+        "name": "Leech Seed",
+        "lvl": 7
+      },
+      {
+        "type": "level-up",
+        "name": "Vine Whip",
+        "lvl": 9
+      },
+      {
+        "type": "level-up",
+        "name": "Poisonpowder",
+        "lvl": 13
+      },
+      {
+        "type": "level-up",
+        "name": "Sleep Powder",
+        "lvl": 13
+      },
+      {
+        "type": "level-up",
+        "name": "Take Down",
+        "lvl": 15
+      },
+      {
+        "type": "level-up",
+        "name": "Razor Leaf",
+        "lvl": 19
+      },
+      {
+        "type": "level-up",
+        "name": "Sweet Scent",
+        "lvl": 21
+      },
+      {
+        "type": "level-up",
+        "name": "Growth",
+        "lvl": 25
+      },
+      {
+        "type": "level-up",
+        "name": "Double-edge",
+        "lvl": 27
+      },
+      {
+        "type": "level-up",
+        "name": "Worry Seed",
+        "lvl": 31
+      },
+      {
+        "type": "level-up",
+        "name": "Synthesis",
+        "lvl": 33
+      },
+      {
+        "type": "level-up",
+        "name": "Seed Bomb",
+        "lvl": 37
+      },
+      {
+        "type": "TM",
+        "name": "Toxic",
+        "lvl": 6
+      },
+      {
+        "type": "TM",
+        "name": "Bullet Seed",
+        "lvl": 9
+      },
+      {
+        "type": "TM",
+        "name": "Hidden Power",
+        "lvl": 10
+      },
+      {
+        "type": "TM",
+        "name": "Sunny Day",
+        "lvl": 11
+      },
+      {
+        "type": "TM",
+        "name": "Protect",
+        "lvl": 17
+      },
+      {
+        "type": "TM",
+        "name": "Giga Drain",
+        "lvl": 19
+      },
+      {
+        "type": "TM",
+        "name": "Frustration",
+        "lvl": 21
+      },
+      {
+        "type": "TM",
+        "name": "Solarbeam",
+        "lvl": 22
+      },
+      {
+        "type": "HM",
+        "name": "Cut",
+        "lvl": 1
+      },
+      {
+        "type": "egg",
+        "name": "Amnesia"
+      },
+      {
+        "type": "egg",
+        "name": "Charm"
+      }
+    ]
+  }
+]
+}
