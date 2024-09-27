@@ -1,0 +1,14 @@
+
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷Òø™£2J$30dff5fa-6462-4d0a-8dab-bbdf246f875b
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆªüíıÿÿÿÿ8÷Òø™£2J$bd028c3e-cdf2-4a56-be14-248f7fc0d500
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8–Óø™£2J$82f48e08-1f38-48aa-b842-de7f288ca56e
+r
+java:S1481 "/Remove this unused "jsonString" local variable.(î–¸8µÓø™£2J$1be7f0b7-05fc-4d5a-9393-955f214894cb
+o
+java:S1128",Remove this unused import 'java.nio.Buffer'.(î¦Ïî8µÓø™£2J$92416401-4711-47d6-af71-9fed54b7be63
+s
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8µÓø™£2J$238da929-5008-4ebb-8a15-7e5baaae43b5
+s
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8µÓø™£2J$23927824-a46f-4161-95e3-c4c53dd2a149

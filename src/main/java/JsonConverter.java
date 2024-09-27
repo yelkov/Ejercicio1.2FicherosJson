@@ -32,19 +32,13 @@ public class JsonConverter {
         String jsonString = "";
 
         try {
-            jsonString = mapper.writeValueAsString(games);
+             mapper.writeValue(new File("src/main/resources/juegos.json"),games);
         }
         catch (JsonProcessingException e) {
             throw new RuntimeException(e);
+        }catch (IOException e){
+            System.out.println("Error en la escritura del archivo.");
         }
-
-        try (BufferedWriter writer = Files.newBufferedWriter(Paths.get("src/main/resources/juegos.json"))) {
-            writer.write(jsonString);
-        } catch (IOException e) {
-            System.out.println("Error al escribir el archivo.");
-        }
-
-
     }
 
 }
