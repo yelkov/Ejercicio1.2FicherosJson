@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "The Witcher 3: Wild Hunt",
+    "version": "1.2",
+    "descripcion": "The Witcher 3 es un juego de rol de mundo abierto ambientado en un impresionante mundo de fantasía. Controlas a Geralt de Rivia, un cazador de monstruos conocido como un brujo, mientras navegas por un vasto continente lleno de misterio y peligro.",
+    "lenguajes": [
+      "Español"
+    ],
+    "imagenes": [
+      "https://example.com/witcher3_screenshot1.jpg"
+    ],
+    "comentarios": {}
+  },
+  {
+    "nombre": "Red Dead Redemption 2",
+    "version": "1.1.1",
+    "descripcion": "Red Dead Redemption 2 es un épico juego de acción y aventuras ambientado en el salvaje oeste americano. Sigues la historia de Arthur Morgan, un forajido en una banda de forajidos, mientras luchan por sobrevivir en una era de cambios y modernización.",
+    "lenguajes": [
+      "Inglés"
+    ],
+    "imagenes": [
+      "https://example.com/rdr2_screenshot1.jpg"
+    ],
+    "comentarios": {}
+  }
+]
