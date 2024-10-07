@@ -1,23 +1,33 @@
 [
   {
     "nombre": "lista1",
+    "fecha" : "2024-01-01",
     "canciones": [
       {
-        "titulo": "Un nombre 1"
+        "titulo": "Un nombre 1",
+        "autor": "Yo no",
+        "duracion" : "3:15"
       },
       {
-        "titulo": "Un nombre 2"
+        "titulo": "Un nombre 2",
+        "autor": "Yo tampoco",
+        "duracion" : "2:15"
       }
     ]
   },
   {
     "nombre": "lista2",
+    "fecha" : "2024-02-01",
     "canciones": [
       {
-        "titulo": "Un nombre 4"
+        "titulo": "Un nombre 4",
+        "autor": "Unocual Quiera",
+        "duracion" : "1:15"
       },
       {
-        "titulo": "Un nombre 3"
+        "titulo": "Un nombre 3",
+        "autor": "Otroque Pasaba",
+        "duracion" : "5:15"
       }
     ]
   }
